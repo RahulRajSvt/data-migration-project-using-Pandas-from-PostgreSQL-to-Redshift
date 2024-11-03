@@ -1,2 +1,2 @@
 # data-migration-project-using-Pandas-from-PostgreSQL-to-Redshift
-his project demonstrates a data pipeline for migrating data from PostgreSQL to Amazon Redshift using Pandas. It focuses on a full load process where data is extracted from PostgreSQL, saved as CSV files in S3, and then loaded into Redshift. The project includes configurations for secure connections and utilizes Pandas for transformations.
+This project demonstrates a data pipeline for migrating data from PostgreSQL to Amazon Redshift using Pandas. It focuses on a full load process where data is extracted from PostgreSQL, saved as CSV files in S3, and then loaded into Redshift. The project includes configurations for secure connections and utilizes Pandas for transformations.
